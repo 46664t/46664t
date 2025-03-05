@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /admin/     
-Disallow: /old-content/ 
-Disallow: /category/duplicates/ 
-
